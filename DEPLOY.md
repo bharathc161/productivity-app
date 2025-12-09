@@ -44,3 +44,4 @@ Notes & Tips
 - Keep `.env.local` out of Git (it's ignored by default). Commit `.env.example` only.
 - If you want automated deploys with previews, connect your GitHub repo to Vercel/Netlify.
 - If main JS chunk is large, I can implement route-based code-splitting (lazy-loading pages) to reduce initial bundle size.
+# Redeploy trigger
