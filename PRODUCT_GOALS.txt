@@ -1,0 +1,45 @@
+# Productivity App Goals & End Product Notes
+
+## Vision
+An AI-powered productivity, focus, and performance improvement coach for working professionals, entrepreneurs, freelancers, and remote workers.
+
+## Core MVP Features
+- AI Focus Partner (Pomodoro timer + analytics)
+- AI Performance Planner (auto weekly plan, daily briefing/reflection)
+- Productivity Analytics Dashboard
+- AI Accountability Coach (LLM chat)
+- Focus Music (AI sound masking, productivity tracks)
+- Firebase authentication and Firestore data storage
+
+## Advanced Features (future)
+- Screensharing/website usage monitoring
+- Team mode for offices/startups
+
+## Monetization Plan
+- Freemium: Basic features free
+- Pro Individual: ₹199–399/month (India), $5–10 global
+- Pro Annual: ₹999–2499/year
+- Corporate plan: ₹200–₹600/user per month
+
+## Tech Stack
+- Frontend: React + TypeScript
+- Backend: Firebase (Auth, Firestore)
+- AI: OpenAI/Gemini/Claude
+
+## Build Timeline
+ UI, planning system, timer
+ AI task planner & habit coach
+ Distraction mode (optional)
+ Reports, deployment, subscription
+
+## Unique Selling Proposition
+“Productivity app that actually holds you accountable, instead of just giving lists.”
+
+## Next Steps
+- Build out each core feature
+- Integrate analytics and habit tracking
+- Polish UI/UX
+- Prepare for deployment and monetization
+
+---
+Refer to this file for your product vision, goals, and roadmap.
