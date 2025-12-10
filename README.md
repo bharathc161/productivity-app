@@ -95,3 +95,4 @@ Next steps I can take for you:
 - Configure environment variables in Vercel for production
 - Further reduce bundle size by lazy-loading additional modules or adding route-based code-splitting (already partially implemented)
 
+# Trigger redeploy for static build fix
